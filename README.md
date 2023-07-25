@@ -1,5 +1,11 @@
 # Spell checker system
 
+NLP_ASC.ipynb is the main spell check system code with GUI creation
+
+NLP_corpus_cleaning is the code to import dictionary and clean corpus
+
+The Only Astrology Book You'll Ever Need is the book selected as corpus. Feel free to change this for other corpus.
+
 My friends, Justin Ng and Wengie Wong, and I collaborated on a university NLP project to develop a spell checker system. This system aims to identify and rectify two types of errors, namely non-word errors and real word errors, found in GUI input texts.
 
 Non-word errors refer to misspelled words that do not exist in the dictionary, while real word errors occur when a word is misspelled but still exists in the dictionary, resulting in altered contextual information. As a result, our system was designed to correct both types of errors in the input text.
